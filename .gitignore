@@ -5,3 +5,4 @@ dea/
 *.DS_Store
 npm-debug.log
 coverage/
+**/static/tts*
